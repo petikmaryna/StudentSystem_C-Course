@@ -1,0 +1,13 @@
+=======================================
+Report card for George P. Burdell
+Algebra: B
+Physics: A
+English: C
+GPA: 3.08333
+=======================================
+Report card for Nancy Rhodes
+Algebra: A
+Physics: A
+Economics: B
+GPA: 3.69231
+=======================================
